@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @the-oto-fu
 - 👀 I’m interested in ... webservice
-- 🌱 I’m currently learning ... PowerShell, PowerApps
+- 🌱 I’m currently learning ... React
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
